@@ -1,0 +1,17 @@
+[
+  {
+    "id": "test-1",
+    "name": "First Entity",
+    "value": 100
+  },
+  {
+    "id": "test-1",
+    "name": "Duplicate Entity",
+    "value": 999
+  },
+  {
+    "id": "test-2",
+    "name": "Second Entity",
+    "value": 200
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "review-1",
+    "productId": "product-1",
+    "userId": "user-1",
+    "rating": 5,
+    "comment": "Excellent phone! Great camera and battery life.",
+    "createdAt": "2024-10-01T14:30:00"
+  },
+  {
+    "id": "review-2",
+    "productId": "product-1",
+    "userId": "user-2",
+    "rating": 4,
+    "comment": "Very good, but a bit expensive.",
+    "createdAt": "2024-10-02T10:15:00"
+  },
+  {
+    "id": "review-3",
+    "productId": "product-1",
+    "userId": "user-1",
+    "rating": 5,
+    "comment": "Best Samsung phone I've owned!",
+    "createdAt": "2024-10-03T16:45:00"
+  },
+  {
+    "id": "review-4",
+    "productId": "product-2",
+    "userId": "user-2",
+    "rating": 5,
+    "comment": "iPhone quality is unmatched. Dynamic Island is amazing!",
+    "createdAt": "2024-10-01T09:20:00"
+  },
+  {
+    "id": "review-5",
+    "productId": "product-2",
+    "userId": "user-1",
+    "rating": 5,
+    "comment": "Premium build quality and great performance.",
+    "createdAt": "2024-10-04T11:30:00"
+  },
+  {
+    "id": "review-6",
+    "productId": "product-3",
+    "userId": "user-1",
+    "rating": 4,
+    "comment": "Great value for money. Camera is impressive.",
+    "createdAt": "2024-09-28T15:00:00"
+  },
+  {
+    "id": "review-7",
+    "productId": "product-3",
+    "userId": "user-2",
+    "rating": 4,
+    "comment": "Good performance and battery. Leica camera is a plus.",
+    "createdAt": "2024-10-05T13:20:00"
+  },
+  {
+    "id": "review-8",
+    "productId": "product-3",
+    "userId": "user-1",
+    "rating": 3,
+    "comment": "Decent phone but MIUI can be buggy.",
+    "createdAt": "2024-10-06T08:45:00"
+  }
+]

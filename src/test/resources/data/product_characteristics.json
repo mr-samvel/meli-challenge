@@ -1,0 +1,72 @@
+[
+  {
+    "productId": "product-1",
+    "characteristicDefinitionId": "char-def-1",
+    "value": "6.8 inches"
+  },
+  {
+    "productId": "product-1",
+    "characteristicDefinitionId": "char-def-2",
+    "value": "12 GB"
+  },
+  {
+    "productId": "product-1",
+    "characteristicDefinitionId": "char-def-3",
+    "value": "256 GB"
+  },
+  {
+    "productId": "product-1",
+    "characteristicDefinitionId": "char-def-4",
+    "value": "5000 mAh"
+  },
+  {
+    "productId": "product-1",
+    "characteristicDefinitionId": "char-def-5",
+    "value": "Snapdragon 8 Gen 2"
+  },
+  {
+    "productId": "product-1",
+    "characteristicDefinitionId": "char-def-6",
+    "value": "200 MP"
+  },
+  {
+    "productId": "product-1",
+    "characteristicDefinitionId": "char-def-7",
+    "value": "Android 13"
+  },
+  {
+    "productId": "product-2",
+    "characteristicDefinitionId": "char-def-1",
+    "value": "6.1 inches"
+  },
+  {
+    "productId": "product-2",
+    "characteristicDefinitionId": "char-def-2",
+    "value": "6 GB"
+  },
+  {
+    "productId": "product-2",
+    "characteristicDefinitionId": "char-def-3",
+    "value": "128 GB"
+  },
+  {
+    "productId": "product-2",
+    "characteristicDefinitionId": "char-def-4",
+    "value": "3200 mAh"
+  },
+  {
+    "productId": "product-2",
+    "characteristicDefinitionId": "char-def-5",
+    "value": "A16 Bionic"
+  },
+  {
+    "productId": "product-2",
+    "characteristicDefinitionId": "char-def-6",
+    "value": "48 MP"
+  },
+  {
+    "productId": "product-2",
+    "characteristicDefinitionId": "char-def-7",
+    "value": "iOS 16"
+  }
+]

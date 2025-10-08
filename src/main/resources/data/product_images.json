@@ -1,0 +1,32 @@
+[
+  {
+    "id": "img-1",
+    "productId": "product-1",
+    "url": "https://example.com/images/samsung-s23-ultra-front.jpg",
+    "order": 0
+  },
+  {
+    "id": "img-2",
+    "productId": "product-1",
+    "url": "https://example.com/images/samsung-s23-ultra-back.jpg",
+    "order": 1
+  },
+  {
+    "id": "img-3",
+    "productId": "product-1",
+    "url": "https://example.com/images/samsung-s23-ultra-side.jpg",
+    "order": 2
+  },
+  {
+    "id": "img-4",
+    "productId": "product-2",
+    "url": "https://example.com/images/iphone-14-pro-front.jpg",
+    "order": 0
+  },
+  {
+    "id": "img-5",
+    "productId": "product-2",
+    "url": "https://example.com/images/iphone-14-pro-back.jpg",
+    "order": 1
+  }
+]

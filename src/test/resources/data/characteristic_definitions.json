@@ -1,0 +1,37 @@
+[
+  {
+    "id": "char-def-1",
+    "name": "Screen Size",
+    "categoryId": "category-phone"
+  },
+  {
+    "id": "char-def-2",
+    "name": "RAM",
+    "categoryId": "category-phone"
+  },
+  {
+    "id": "char-def-3",
+    "name": "Storage",
+    "categoryId": "category-phone"
+  },
+  {
+    "id": "char-def-4",
+    "name": "Battery",
+    "categoryId": "category-phone"
+  },
+  {
+    "id": "char-def-5",
+    "name": "Processor",
+    "categoryId": "category-phone"
+  },
+  {
+    "id": "char-def-6",
+    "name": "Main Camera",
+    "categoryId": "category-phone"
+  },
+  {
+    "id": "char-def-7",
+    "name": "Operating System",
+    "categoryId": "category-phone"
+  }
+]

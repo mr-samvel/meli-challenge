@@ -1,0 +1,32 @@
+[
+  {
+    "id": "product-1",
+    "title": "Samsung Galaxy S23 Ultra 256GB",
+    "description": "Premium smartphone with advanced camera system, 6.8-inch Dynamic AMOLED display, and S Pen support",
+    "price": 5499.00,
+    "stock": 15,
+    "storeId": "store-1",
+    "brandId": "brand-1",
+    "categoryId": "category-phone"
+  },
+  {
+    "id": "product-2",
+    "title": "iPhone 14 Pro 128GB",
+    "description": "Apple's flagship smartphone with A16 Bionic chip, Dynamic Island, and advanced camera system",
+    "price": 7299.00,
+    "stock": 8,
+    "storeId": "store-1",
+    "brandId": "brand-2",
+    "categoryId": "category-phone"
+  },
+  {
+    "id": "product-3",
+    "title": "Xiaomi 13 Pro 256GB",
+    "description": "High-performance smartphone with Leica camera system and Snapdragon 8 Gen 2",
+    "price": 4199.00,
+    "stock": 22,
+    "storeId": "store-2",
+    "brandId": "brand-3",
+    "categoryId": "category-phone"
+  }
+]

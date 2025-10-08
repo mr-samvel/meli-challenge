@@ -1,0 +1,34 @@
+spring:
+  application:
+    name: technical-challenge
+
+  jackson:
+    serialization:
+      indent-output: true
+      write-dates-as-timestamps: true
+    deserialization:
+      fail-on-unknown-properties: true
+    default-property-inclusion: non_null
+
+server:
+  port: 8080
+  error:
+    include-message: always
+    include-binding-errors: always
+    include-stacktrace: on_param
+    include-exception: false
+
+springdoc:
+  api-docs:
+    path: /api-docs
+    enabled: true
+  swagger-ui:
+    path: /swagger-ui.html
+    enabled: true
+    operations-sorter: alpha
+    tags-sorter: alpha
+  show-actuator: false
+
+application:
+  data:
+    path: classpath:data/

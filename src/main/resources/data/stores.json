@@ -1,0 +1,16 @@
+[
+  {
+    "id": "store-1",
+    "name": "TechStore Brasil",
+    "reputation": 4.8,
+    "salesCount": 1523,
+    "registeredDate": "2020-01-15T10:00:00"
+  },
+  {
+    "id": "store-2",
+    "name": "Eletrônicos Premium",
+    "reputation": 4.5,
+    "salesCount": 892,
+    "registeredDate": "2021-03-20T14:30:00"
+  }
+]
