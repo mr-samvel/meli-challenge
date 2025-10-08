@@ -51,7 +51,7 @@ public class ProductController {
             )
     })
     public ResponseEntity<ProductDetailDTO> getProductDetail(
-            @Parameter(description = "Product ID", required = true, example = "0199bb55-661f-7f45-af8c-d1b013911a16")
+            @Parameter(description = "Product ID", required = true, example = "product-1")
             @PathVariable String id
     ) {
         ProductDetailDTO response = productService.getProductDetail(id);
